@@ -1,0 +1,20 @@
+{
+	"expo": {
+		"sdkVersion": "27.0.0",
+		"orientation": "portrait",
+		"name": "Mobile Flashcards",
+		"description": "Create decks of flash-cards and take quizzes",
+		"slug": "mobileflashcards",
+		"version": "1.0",
+		"icon": "https://www.dctucker.com/images/flashcards.png",
+		"notification": {
+			"icon": "https://www.dctucker.com/images/flashcards.png"
+		},
+		"ios": {
+			"bundleIdentifier": "com.dctucker.mobileflashcards.exp"
+		},
+		"android": {
+			"package": "com.dctucker.mobileflashcards.exp"
+		}
+	}
+}
